@@ -23,7 +23,7 @@ specify a path in the fopen calls at about lines 2808 and 2860 of `h_story.c`.
 
 Don't try to compile the `.c` files in the /proc or /story subdirectories! They are code used by the game itself.
 
-- [Manual.html](bin/Manual.html) has extensive detail about the game, including documentation for the in-game API.
+- [Manual](https://n0lim.github.io/liberation-circuit-manual.github.io/) has extensive detail about the game, including documentation for the in-game API.
 - Edit [init.txt](bin/init.txt) to set screen resolution and other options (fullscreen, sound volume, key rebinding, colourblind mode etc).
 
 To build using do/redo (using the .do scripts by Nils Dagsson Moskopp):
